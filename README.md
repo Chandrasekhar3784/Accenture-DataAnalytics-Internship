@@ -2,8 +2,8 @@
 ## Project Overview
 ## Datasets Used
 - Content Dataset <a href="https://github.com/Chandrasekhar3784/Accenture-DataAnalytics-Internship/blob/main/Content.csv"> File</a>
-- Content Dataset <a href="https://github.com/Chandrasekhar3784/Accenture-DataAnalytics-Internship/blob/main/Content.csv"> File</a>
-- Content Dataset <a href="https://github.com/Chandrasekhar3784/Accenture-DataAnalytics-Internship/blob/main/Content.csv"> File</a>- 
+- Reactions Dataset <a href="https://github.com/Chandrasekhar3784/Accenture-DataAnalytics-Internship/blob/main/Reactions.csv"> File</a>
+- ReactonsType Dataset <a href="https://github.com/Chandrasekhar3784/Accenture-DataAnalytics-Internship/blob/main/Content.csv"> File</a>
 ## Project Insights
 - There are a total of 16 distinct content categories.
 - Out of which Animal and Science categories are the most popular one.
