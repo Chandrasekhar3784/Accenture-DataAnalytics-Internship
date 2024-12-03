@@ -1,5 +1,14 @@
 # Accenture-DataAnalyst-Internship(Excel)
+
 ## Project Overview
+
+- Social Buzz is a fast growing technology unicorn that need to adapt quickly to it’s global scale.
+  Accenture has begun a 3 month POC focusing on these tasks:
+
+- An audit of Social Buzz’s big data practice
+- Recommendations for a successful IPO
+- Analysis to find Social Buzz’s top 5 most popular categories of content
+
 ## Datasets Used
 
 - Content Dataset <a href="https://github.com/Chandrasekhar3784/Accenture-DataAnalytics-Internship/blob/main/Content.csv"> File</a>
@@ -19,6 +28,7 @@
 Complete Project Guide File <a href="https://github.com/Chandrasekhar3784/Accenture-DataAnalytics-Internship/blob/main/Data%20Analytics%20-%20Task%203_final.pptx"> File</a>
 
 ## Project step by step Guide images
+
 ### Home
 ![Screenshot 2024-12-03 162712](https://github.com/user-attachments/assets/e62e75d1-bbc3-4663-88f3-092744e2777f)
 ### Today's agenda
@@ -45,11 +55,13 @@ Complete Project Guide File <a href="https://github.com/Chandrasekhar3784/Accent
 ![Screenshot 2024-12-03 163117](https://github.com/user-attachments/assets/83cc4bfd-4a98-48a0-99f3-adb253c8ae1a)
 
 ## Project Insights
+
 - There are a total of 16 distinct content categories.
 - Out of which Animal and Science categories are the most popular one.
 - 4 type of content - Photo, Video, Gif and Audio.
 - Out of which people prefer photo and video. May month has the highest number of posts. 
 
 ## Conclusion
+
 Should focus more on the top 5 categories that's animal, technology, science, healthy eating and food. create campaign to specifically target those audiences. Need to maximize in the month of January, may and august as they number of posts in these months are the highest
 
